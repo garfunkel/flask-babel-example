@@ -1,13 +1,10 @@
 # flask-babel-example
 Example of implementing i18n support with Flask-Babel.
 
-##Instructions
-###Install Flask-Babel
-`pip install Flask-Babel`
-
 ###Clone Repo
 `git clone https://github.com/garfunkel/flask-babel-example`
 `cd flask-babel-example`
+`pip install -r requirements.txt`
 
 ###Extract/Update Translatable Strings
 We need to instruct Flask-Babel to extract translatable strings from Python source code and from templates. This command extracts these strings into a catalogue file, qhich essentially is just a list of English strings.
