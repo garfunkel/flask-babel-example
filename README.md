@@ -5,7 +5,9 @@ Example of implementing i18n support with Flask-Babel.
 
 ###Clone Repo
 `git clone https://github.com/garfunkel/flask-babel-example`
+
 `cd flask-babel-example`
+
 `pip install -r requirements.txt`
 
 ###Extract/Update Translatable Strings
