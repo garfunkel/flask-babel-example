@@ -1,5 +1,5 @@
 from app import app, babel
-from config import LANGUAGES
+from app.config import LANGUAGES
 from flask.ext.babel import gettext
 from flask import request
 
