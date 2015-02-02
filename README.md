@@ -1,4 +1,6 @@
 # flask-babel-example
+[![Build Status](https://travis-ci.org/garfunkel/flask-babel-example.svg)](https://travis-ci.org/garfunkel/flask-babel-example)
+
 Example of implementing i18n support with Flask-Babel.
 
 ###Clone Repo
